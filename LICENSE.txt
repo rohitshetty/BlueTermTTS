@@ -1,0 +1,3 @@
+This is modified version of blueterm App available from http://pymasde.es/blueterm/ modified source code is made to work with TextToSpeech module of android.
+License is not been specifed in App hence, the license of App is supposed to be followed. 
+
